@@ -1,0 +1,14 @@
+.env
+.env.local
+.env.*.local
+demo_requests.db
+*.db
+node_modules/
+.npm
+__pycache__/
+*.py[cod]
+venv/
+env/
+.vscode/
+.idea/
+*.swp
