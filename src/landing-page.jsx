@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { ArrowRight, Zap, BarChart3, Clock, CheckCircle, Menu, X } from 'lucide-react';
+import React, { useState } from 'react';
+import { ArrowRight, Zap, Menu, X } from 'lucide-react';
 
 const styles = {
   container: {
