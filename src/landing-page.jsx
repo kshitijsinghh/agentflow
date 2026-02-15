@@ -165,6 +165,7 @@ const styles = {
   },
 };
 
+const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
 export default function LandingPage() {
   const [showBookingModal, setShowBookingModal] = useState(false);
   const [formData, setFormData] = useState({
